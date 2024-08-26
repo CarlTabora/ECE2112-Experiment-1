@@ -6,6 +6,5 @@ I. Intended Learning Outcomes:
 2. To be able to apply the different codes and functions in creating a Python program,
    
 II. Instructions:
-
-Write a Python script/code in the Jupyter Notebook to do the given problems. You may submit your Jupyter
+   Write a Python script/code in the Jupyter Notebook to do the given problems. You may submit your Jupyter
 notebook in the dedicated submission bin.
